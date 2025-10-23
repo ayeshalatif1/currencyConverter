@@ -8,7 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "deploy": "gh pages -d dist",
+    "deploy": "ghk./-pages -d dist",
     "preview": "vite preview"
   },
   "dependencies": {
