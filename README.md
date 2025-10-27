@@ -1,14 +1,14 @@
-[Overview](#overview)
+###[Overview](#overview)
 
- [Live Demo](#live-demo)
+  ###[Live Demo](#live-demo)
 
- [API](#api)
+  ###[API](#api)
 
- [Features](#features)
+  ###[Features](#features)
 
- [Tech Stack](#tech-stack)
+  ###[Tech Stack](#tech-stack)
 
- [What I learned](#what-i-learned)
+  ###[What I learned](#what-i-learned)
 
 
 
@@ -20,7 +20,7 @@ This app allows users to convert between multiple currencies in real-time using 
 
 ##  Live Demo
 
- [View Live Project](https://your-username.github.io/your-repo-name/)
+ [View Live Project](https://ayeshalatif1.github.io/currencyConverter/)
 
 
 ## API
